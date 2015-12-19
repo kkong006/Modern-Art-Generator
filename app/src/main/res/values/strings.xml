@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">More Information</string>
+    <string name="subMenu">Inspired by the works of modern artists.
+        Click below to learn more!</string>
+    <string name="moma">Visit MOMA</string>
+    <string name="nope">Not Now</string>
+    <string name="selection_Dialog">Inspired by the works of modern artists. Click below to learn more!</string>
+    <string name="visit">Visit MOMA</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_moma_web_view">momaWebView</string>
+</resources>
